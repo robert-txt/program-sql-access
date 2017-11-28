@@ -1,0 +1,10 @@
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.csprojResolveAssemblyReference.cache
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.Form1.resources
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.Properties.Resources.resources
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.GenerateResource.Cache
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\Grażyna\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.pdb
